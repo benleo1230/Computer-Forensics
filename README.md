@@ -13,7 +13,8 @@ The following is the report that I submitted for our Project 4 of CIS-484, where
  ![image](https://github.com/user-attachments/assets/9a1ff629-a535-466e-98b1-2f91797a6eb2)
 # Firearms:
   ![image](https://github.com/user-attachments/assets/5c6da6c9-cb9d-4a63-a7bc-f7e9772f5c67)
- 
+ ![image](https://github.com/user-attachments/assets/1c219b88-7d9e-465f-a24b-3f4bcc1320ec)
+
 
 
 During the investigation is became clear that the suspect wanted to try and conceal and delete evidence for this case. I know this to be due to the report through Autopsy of the received files. In my investigation I began looking into Perry’s search history and on February 24th he searched for ways to be able to clear files from his device, with one search being “What’s the best way to get rid of all evidence on my computer”. After this search Perry was able to find a program that was supposed to be able to completely get rid of all of his files he wanted deleted but clearly this did not work. He also tried to recycle images trough the recycling bin, which is where I was able to locate the above photos of firearms. Along with these photos was a contact of a woman named Mary Reister who may be a client or accomplice. After finding this evidence I decided to use Registry Explorer to examine if there has been any executables that have been ran. In my search I was able to find two programs that seem to offer secure deletion. The first of these programs was called Eraser.exe and the second was named sdelete.exe. Both programs appeared under the downloads folder within Perry’s user account.
