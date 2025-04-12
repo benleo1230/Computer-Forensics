@@ -10,7 +10,7 @@ The following is the report that I submitted for our Project 4 of CIS-484, where
 # da stuff.jpg:
  ![image](https://github.com/user-attachments/assets/08798fcf-43ec-4f40-8aec-16f9a84aba08)
 # Book2.xlsx:
- 
+ ![image](https://github.com/user-attachments/assets/9a1ff629-a535-466e-98b1-2f91797a6eb2)
 # Firearms:
    
 
