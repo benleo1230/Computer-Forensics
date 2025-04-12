@@ -8,7 +8,7 @@ The following is the report that I submitted for our Project 4 of CIS-484, where
 # mike’s desk.jpg:
  ![image](https://github.com/user-attachments/assets/358ad235-20a1-4d2b-9eb9-fb5cb389c439)
 # da stuff.jpg:
- 
+ ![image](https://github.com/user-attachments/assets/08798fcf-43ec-4f40-8aec-16f9a84aba08)
 # Book2.xlsx:
  
 # Firearms:
